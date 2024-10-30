@@ -44,8 +44,8 @@
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=white)
 ![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI%2FCD-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DarcyHU999&theme=merko&hide=stars,issues,contribs&hide_border=false&include_all_commits=true&count_private=true&hide_rank=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DarcyHU999&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=DarcyHU999&theme=merko&hide=stars,issues,contribs&hide_border=false&include_all_commits=true&count_private=true&hide_rank=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DarcyHU999&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
